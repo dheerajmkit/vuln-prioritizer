@@ -1,0 +1,2 @@
+# No third-party dependencies: Python 3 standard library only.
+# The test suite (day 3) needs pytest:  pip install pytest
